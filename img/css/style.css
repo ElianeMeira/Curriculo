@@ -1,0 +1,42 @@
+.formText h1{
+    color:crimson;
+}
+.formText h2{
+    color: tomato;
+}
+.formTes h5{
+    color:darkorchid ;
+}
+.formTex h2{
+    color: tomato;
+}
+.FormTex i{
+    color: blue;
+}
+.formTexto h2{
+    color: tomato;
+}
+.FormTexto li{
+    color: darkorchid;
+}
+.forText h2{
+    color: tomato;
+}
+.forText{
+    color: darkorchid;
+}
+.ForTexto{
+    color: darkorchid;
+}
+.FormTe i{
+    color: crimson;
+}
+.foto-perfil{
+border-radius: 100%;
+max-width: 200px;
+border: 1px solid black;
+}
+
+body{
+    background-color: bisque;
+}
